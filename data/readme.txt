@@ -1,0 +1,1 @@
+Os arquivos compactados devem ser descompactados aqui, de forma que fiquem ao lado da pasta /datasets.
